@@ -107,7 +107,6 @@ return {
     CobwebCutter = true,
     DarkScythe = true,
     ShootingStar = true,
-    SugrRush = false,
     CosmicHandgun = true,
     RedDot = true,
     SugarRush = true,

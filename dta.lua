@@ -204,5 +204,4 @@ return {
     DivineEmberlock = true,
     DivineBlade = true,
     Frogus = true,
-    Sweater = false,
 }
